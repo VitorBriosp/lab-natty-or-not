@@ -19,7 +19,7 @@ pelos engenheiros de software.
 ## 🚀 Resultados
 O vídeo é uma divertida "entrevista" com Max Verstappen. O projeto inteiro foi feito por Inteligência Artificial, buscando evidenciar o quão avançada essa ferramenta
 está atualmente e o potencial que ela pode alcançar.
-Para acessar o vídeo **[Clique aqui](https://drive.google.com/file/d/16yJjk_Sw2PiH_BR2MjR1QTKKJF7XrTmb/view?usp=drive_link)**
+Para acessar o vídeo **[Clique aqui](https://drive.google.com/file/d/118a92sKoPn-SgidnBkA4gZio5ogIiNNg/view?usp=drive_link)**
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A criação desse vídeo foi muito divertido(e um tanto trabalhoso), mas acima de tudo interessante e empolgante, definitivamente algo que eu gostaria de ter mais contato futuramente.
