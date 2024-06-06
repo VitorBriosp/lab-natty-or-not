@@ -1,5 +1,3 @@
-
-https://github.com/VitorBriosp/lab-natty-or-not/assets/167243828/b50205db-1469-433a-88af-3fa7aabcaaf1
 # Entrevista com Max Verstappen gerada completamente por IA
 
 ## 📒 Descrição
