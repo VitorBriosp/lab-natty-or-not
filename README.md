@@ -22,9 +22,6 @@ pelos engenheiros de software.
 O vídeo é uma divertida "entrevista" com Max Verstappen. O projeto inteiro foi feito por Inteligência Artificial, buscando evidenciar o quão avançada essa ferramenta
 está atualmente e o potencial que ela pode alcançar.
 Para acessar o vídeo **[Clique aqui](
-
-https://github.com/VitorBriosp/lab-natty-or-not/assets/167243828/f87e7bbc-9b2d-4e82-8d60-ffd2a2e59c93
-
 )**
 
 ## 💭 Reflexão (Opcional)
