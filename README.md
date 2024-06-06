@@ -7,10 +7,10 @@ logicamente). O projeto inteiro foi feito por Inteligência Artificial, buscando
 está atualmente e o potencial que ela pode alcançar.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa [AdaptaGpt](https://chat.adapta.org/hub) usando a ferramenta da perplexity AI para gerar o roteiro do anúncio;
-Aplicativo de IA Generativa FaceApp para alterar características físicas do avatar;
-IA Generativa [ElevenLabs](https://elevenlabs.io) para gerar áudio do vídeo
-IA Generativa [D-ID](https://www.d-id.com) para sintetizar a voz e o avatar;
+. IA Generativa [AdaptaGpt](https://chat.adapta.org/hub) usando a ferramenta da perplexity AI para gerar o roteiro do anúncio;
+. Aplicativo de IA Generativa FaceApp para alterar características físicas do avatar;
+. IA Generativa [ElevenLabs](https://elevenlabs.io) para gerar áudio do vídeo
+. IA Generativa [D-ID](https://www.d-id.com) para sintetizar a voz e o avatar;
 
 ## 🧐 Processo de Criação
 usei o perplexity AI como ferramenta geradora de texto para gerar o roteiro do vídeo, a ferramenta elevenlabs para gerar o áudio, o aplicativo faceapp
