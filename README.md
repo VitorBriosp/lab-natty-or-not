@@ -21,5 +21,5 @@ O vídeo é uma divertida "entrevista" com Max Verstappen. O projeto inteiro foi
 está atualmente e o potencial que ela pode alcançar.
 Para acessar o vídeo **[Clique aqui](https://drive.google.com/file/d/118a92sKoPn-SgidnBkA4gZio5ogIiNNg/view?usp=drive_link)**
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 A criação desse vídeo foi muito divertido(e um tanto trabalhoso), mas acima de tudo interessante e empolgante, definitivamente algo que eu gostaria de ter mais contato futuramente.
